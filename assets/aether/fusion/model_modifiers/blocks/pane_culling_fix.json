@@ -1,0 +1,4 @@
+{
+  "pane_culling_fix": true,
+  "targets": ["aether:quicksoil_glass_pane"]
+}

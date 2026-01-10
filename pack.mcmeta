@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 1000],
+    "min_format": [15, 0],
+    "max_format": [1000, 0],
+    "description": "Adds compatibility between Fusion Connected Glass and other mods."
+  }
+}
