@@ -20,7 +20,8 @@ You also need the following mod and resource pack for it to work properly:
 
 ## 🚀 Planned Features
 
-Nothing for now, but feel free to suggest any feature you want!
+- [ProtoManly's Weather](https://modrinth.com/project/TfCsmTLI)
+<!-- Nothing for now, but feel free to suggest any feature you want! -->
 
 ## 🙏 Credits
 
