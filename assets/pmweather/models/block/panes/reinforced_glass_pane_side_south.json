@@ -1,0 +1,55 @@
+{
+  "type": "fusion:connecting",
+  "parent": "pmweather:block/templates/template_glass_pane_side_alt",
+  "connections": {
+    "type": "fusion:or",
+    "predicates": [
+      {
+        "type": "fusion:or",
+        "predicates": [
+          {
+            "type": "fusion:and",
+            "predicates": [
+              {
+                "type": "fusion:match_state",
+                "block": "pmweather:reinforced_glass_pane",
+                "properties": {
+                  "south": ["true"]
+                }
+              },
+              {
+                "type": "fusion:is_direction",
+                "directions": ["bottom", "top"]
+              }
+            ]
+          },
+          {
+            "type": "fusion:and",
+            "predicates": [
+              {
+                "type": "fusion:is_same_block"
+              },
+              {
+                "type": "fusion:is_direction",
+                "directions": [
+                  "bottom_left",
+                  "bottom_right",
+                  "left",
+                  "right",
+                  "top_left",
+                  "top_right"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "loader": "fusion:model",
+  "render_type": "cutout",
+  "textures": {
+    "edge": "pmweather:block/reinforced_glass_edge",
+    "pane": "pmweather:block/reinforced_glass"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "fusion:connecting",
+  "parent": "pmweather:block/templates/template_glass_pane_post",
+  "connections": {
+    "type": "fusion:or",
+    "predicates": [
+      {
+        "type": "fusion:is_same_block"
+      }
+    ]
+  },
+  "loader": "fusion:model",
+  "render_type": "cutout",
+  "textures": {
+    "edge": "pmweather:block/reinforced_glass_edge",
+    "pane": "pmweather:block/reinforced_glass"
+  }
+}

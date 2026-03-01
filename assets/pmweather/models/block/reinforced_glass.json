@@ -1,0 +1,9 @@
+{
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "loader": "fusion:model",
+  "render_type": "cutout",
+  "textures": {
+    "all": "pmweather:block/reinforced_glass"
+  }
+}

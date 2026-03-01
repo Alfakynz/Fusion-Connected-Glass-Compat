@@ -6,6 +6,7 @@ Fusion Connected Glass Compat (FCG Compat) adds compatibility between the Fusion
 
 - [Aether](https://modrinth.com/project/YhmgMVyu)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
+- [ProtoManly's Weather](https://modrinth.com/project/TfCsmTLI)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
 ## 📦 Installation
@@ -20,8 +21,7 @@ You also need the following mod and resource pack for it to work properly:
 
 ## 🚀 Planned Features
 
-- [ProtoManly's Weather](https://modrinth.com/project/TfCsmTLI)
-<!-- Nothing for now, but feel free to suggest any feature you want! -->
+Nothing for now, but feel free to suggest any feature you want!
 
 ## 🙏 Credits
 
