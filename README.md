@@ -11,7 +11,7 @@ Fusion Connected Glass Compat (FCG Compat) adds compatibility between the Fusion
 
 ## 📦 Installation
 
-You can download Fusion Connected Glass Compat on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fcg-compat)
+You can download Fusion Connected Glass Compat on [Modrinth](https://modrinth.com/project/uMulT97B) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fcg-compat)
 
 ## ⚙️ Requirements
 
